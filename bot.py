@@ -363,4 +363,4 @@ async def deladminrole(ctx, role_id=None):
         em = discord.Embed(title="FBOT", description="Неправильный ID")
         await ctx.send(embed=em)
 
-bot.run('MTA0MjQzNTk0OTc4MDU1Mzc3OA.GcyQuf.bLQYMceNyE1D1O3fElPR13xH65mqaVbn-3TIaE')
+bot.run('')
