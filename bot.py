@@ -1,3 +1,4 @@
+#author: kidz 2023
 
 import discord
 from discord.ext import commands
